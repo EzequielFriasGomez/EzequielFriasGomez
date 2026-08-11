@@ -1,6 +1,6 @@
 # Hola, soy Víctor Ezequiel 👋
 
-> Soy un analista de datos con formación en Administración de Empresas (Actualmente cursando). Mi enfoque no es solo escribir código o diseñar gráficos, sino entender la lógica contable y operativa detrás de los números para detectar cuellos de botella, fugas de capital y oportunidades de rentabilidad.
+> **Soy un analista de datos con formación en Administración de Empresas (Actualmente cursando). Mi enfoque no es solo escribir código o diseñar gráficos, sino entender la lógica contable y operativa detrás de los números para detectar cuellos de botella, fugas de capital y oportunidades de rentabilidad.**
 
 ### 🚀 Portfolio y Contacto
 
